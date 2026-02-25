@@ -12,6 +12,7 @@ public class Exercício1 {
         return scanner.nextDouble();
     }
     public static double calcularsoma(double valor1, double valor2){
+
         return valor1 + valor2;
     }
     public static void main(String[] args) {
