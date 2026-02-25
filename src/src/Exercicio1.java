@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercício1 {
+public class Exercicio1 {
     public static double lervalor(Scanner scanner, String nome){
         System.out.println("Digite o valor de " + nome);
 
