@@ -2,19 +2,25 @@
 
 package exercicio02;
 
-public static void main(String[] args) {
-        Scanner Valor_entrada = new Scanner(System.in);
+import java.util.Scanner;
 
-        float float1 = Valor_entrada.nextFloat();
-        float float2 = Valor_entrada.nextFloat();
-        float float3 = Valor_entrada.nextFloat();
-        Valor_entrada.close();
+public class Exercicio2 {
 
-        float media, total;
+        public static void main(String[] args) {
+                Scanner Valor_entrada = new Scanner(System.in);
 
-        total = (float1 + float2 + float3);
-        media = (float1 + float2 + float3) / 3;
+                float float1 = Valor_entrada.nextFloat();
+                float float2 = Valor_entrada.nextFloat();
+                float float3 = Valor_entrada.nextFloat();
+                Valor_entrada.close();
 
-        System.out.println("A media foi de: " + media);
-        System.out.println("O total foi de: " + total);
+                float media, total;
+
+                total = (float1 + float2 + float3);
+                media = (float1 + float2 + float3) / 3;
+
+                System.out.println("A media foi de: " + media);
+                System.out.println("O total foi de: " + total);
+        }
+
 }

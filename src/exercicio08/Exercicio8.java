@@ -8,7 +8,7 @@ public class Exercicio8 {
     public static int lerNumero(Scanner scanner) {
         System.out.println("Digite um valor Inteiro: ");
 
-        while (!scanner.hasNextDouble()) {
+        while (!scanner.hasNextInt()) {
             System.out.println("Insira um valor válido");
             scanner.next();
             System.out.println("Digite um valor Inteiro: ");

@@ -1,8 +1,7 @@
 //Faça um algoritmo que leia um valor qualquer e imprima na tela com um reajuste de 5%.
+package exercicio06;
 
 import java.util.Scanner;
-
-package exercicio06;
 
 public class Exercicio6 {
     public static double lervalor(Scanner scanner){
