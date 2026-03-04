@@ -2,6 +2,8 @@
 
 import java.util.Scanner;
 
+package exercicio06;
+
 public class Exercicio6 {
     public static double lervalor(Scanner scanner){
         System.out.println("Digite um valor qualquer: ");

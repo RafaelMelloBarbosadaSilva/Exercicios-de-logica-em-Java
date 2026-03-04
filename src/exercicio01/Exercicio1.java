@@ -1,3 +1,5 @@
+package exercicio01;
+
 import java.util.Scanner;
 
 public class Exercicio1 {

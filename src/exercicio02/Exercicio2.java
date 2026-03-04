@@ -1,3 +1,7 @@
+/* 2 - Faça um algoritmo para receber um número qualquer e imprimir na tela se o número é par ou ímpar, positivo ou negativo. */
+
+package exercicio02;
+
 public static void main(String[] args) {
         Scanner Valor_entrada = new Scanner(System.in);
 

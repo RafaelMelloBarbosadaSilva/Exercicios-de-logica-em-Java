@@ -1,5 +1,6 @@
 /* 7 - Faça um algoritmo que leia dois valores booleanos (lógicos) e determine se ambos são VERDADEIRO ou FALSO. */
 
+package exercicio07;
 
 import java.util.Scanner;
 

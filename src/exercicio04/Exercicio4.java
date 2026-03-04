@@ -1,5 +1,7 @@
 // Faça um algoritmo que receba um número inteiro e imprima na tela o seu antecessor e o seu sucessor.
 
+package exercicio04;
+
 import java.util.Scanner;
 
 public class Exercicio4 {
