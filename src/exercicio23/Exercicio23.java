@@ -1,4 +1,4 @@
-/*21 - Faça um algoritmo que efetue o cálculo do salário líquido de um professor. As informações fornecidas serão:
+/*23 - Faça um algoritmo que efetue o cálculo do salário líquido de um professor. As informações fornecidas serão:
 valor da hora aula, número de aulas lecionadas no mês e percentual de desconto do INSS. Imprima na tela o salário líquido final.
 Salário de Contribuição (R$)
 Até R$1.621,00 = 7,5%
